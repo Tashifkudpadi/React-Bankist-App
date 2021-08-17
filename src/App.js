@@ -26,8 +26,9 @@ function App() {
       <Operations />
       <Testimonials />
       <Slogan />
-      <Footer />
-      <Footer />
+      <Slogan />
+      <Slogan />
+      <Slogan />
       <Footer />
     </div>
   );
