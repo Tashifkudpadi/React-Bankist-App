@@ -27,6 +27,8 @@ function App() {
       <Testimonials />
       <Slogan />
       <Footer />
+      <Footer />
+      <Footer />
     </div>
   );
 }
